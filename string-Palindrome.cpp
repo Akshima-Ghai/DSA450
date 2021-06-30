@@ -1,7 +1,7 @@
 class Solution{
 public:	
 	
-	
+	//reverse the string
 	int isPlaindrome(string S)
 	{
 	    string rev_str;
