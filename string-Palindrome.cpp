@@ -1,7 +1,7 @@
 class Solution{
 public:	
 	
-	//reverse the string
+	//reverse the string and check if it is similar to the o
 	int isPlaindrome(string S)
 	{
 	    string rev_str;
